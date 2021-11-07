@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
-    <Form />
-  </div>
+  <v-app>
+    <Form/>
+  </v-app>
 </template>
 
 <script>
@@ -19,8 +19,7 @@ export default {
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   color: #2c3e50;
-  background-color: #fafafa;
-  padding: 24px;
+  padding: 0 24px;
   box-sizing: border-box;
 }
 
