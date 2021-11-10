@@ -9,11 +9,16 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "lodash": "^4.17.21",
+    "luxon": "^2.1.0",
+    "v-mask": "^2.3.0",
     "vue": "^2.6.11",
     "vue-svg-loader": "^0.16.0",
-    "vuedraggable": "^2.24.3"
+    "vuedraggable": "^2.24.3",
+    "vuetify": "^2.5.12"
   },
   "devDependencies": {
+    "@mdi/font": "^6.4.95",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
